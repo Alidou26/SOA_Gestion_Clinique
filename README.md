@@ -15,7 +15,7 @@
   <p>Projet réalisé dans le cadre du module Service Oriented Architecture (SOA) — Gestion des rendez-vous, dossiers médicaux, prescriptions, médecins, notifications et suivi des patients.</p>
 </div>
 
-# [Video Démonstration](https://drive.google.com/file/d/1p6kfkWYCBZsjH0PLqSy-tZD9gWpFe-_K/view?usp=sharing)
+# [Video Démonstration](https://drive.google.com/file/d/16vmIgzZ3hDcO7jv7JHTnSts2dxmiRWFw/view?usp=sharing)
 Si le lien ne marche pas, considérez de copier lien et de le coller dans la barre de recherche.
 
 # [Rapport](https://drive.google.com/file/d/1l2pLChcDsLKM7mcFlVI1TMBrnPrlBmQI/view?usp=sharing)
