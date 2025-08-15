@@ -153,7 +153,6 @@ Le système permet :
 
 ## Démo de l'application<a name="app"></a>
 
-## Démo<a name="demo"></a>
 
 <img src="image/1.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
 <img src="image/2.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
