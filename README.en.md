@@ -122,7 +122,6 @@ The system enables:
    ```bash
    redis-server
    ```
-   ### Steps
 2. **Open Java project** in your IDE
 3. **Start the application**
 4. **Access frontend** locally via a browser
